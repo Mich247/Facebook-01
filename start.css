@@ -1,0 +1,143 @@
+
+:root{
+    --about--border:blue;
+}
+body{
+    background-color: #F2F4F7;
+}
+.Container{
+    display: inline-block;
+    margin-top:300px;
+    padding-left:200px;
+}
+.Face{
+    width: 700px;
+}
+.Text{
+    color:#1C1E21;
+    padding-left: 60px;
+    margin-top: -20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5vmin;
+    letter-spacing: normal;
+    font-weight: normal;
+}
+.SecondT{
+    background-color:white;
+    height: 53vh;
+    width: 800px;
+    border-radius: 15px;
+    float: right;
+    margin-top: 300px;
+    margin-right: 300px;
+    
+}
+.input{
+    background-color: #FFFFFF;
+    height: 80px;
+    width: 700px;
+    margin-left: 50px;
+    border-radius: 8px;
+    margin-top: 10px;
+    font-size: 40px;
+}
+#email{
+    text-decoration: none;
+    margin-top: 30px;
+}
+.inpt{
+    height: 80px;
+    width: 700px;
+    margin-left: 50px;
+    border-radius: 8px;
+    margin-top: 30px;
+    font-size: 40px;
+    
+}
+#Forggotten{
+    text-decoration: none;
+    text-align: center;
+    color: #0866FF;
+    font-weight: normal;
+    font-size: 2vmin;
+}
+#Login{
+    background-color:#1877F2;
+    color:#FFFFFD;
+    font-weight: 300;
+    font-size: 40px;
+    
+}
+#Login:hover{
+    cursor: pointer;
+}
+.inptt{
+    height: 80px;
+    width: 700px;
+    margin-left: 50px;
+    border-radius: 7px;
+    margin-top: 40px;
+}
+#account{
+    background-color: #42B72A;
+    border-color: #42b72a;
+    color: #F2F4F7;
+    font-size:large;
+    font-weight: 00px;
+}
+.inputt{
+    height: 85px;
+    width: 350px;
+    margin-left: 230px;
+    border-radius: 7px;
+    margin-top: 18px;
+    outline: none;
+}
+.inputt:hover{
+    cursor: pointer;
+}
+.inp{
+    margin-top: 30px;
+}
+.hrt{
+    color: #DADDE1;
+    margin-top: 50px;
+}
+#inputt:hover{
+    text-decoration: underline;
+}
+.input::placeholder{
+    padding: 20px;
+    font-size: 30px;
+}
+.inpt::placeholder{
+    padding: 20px;
+    font-size: 30px;
+}
+.knew{
+    margin-left: 150px;
+    border-radius: 7px;
+    margin-top: 70px;
+    font-size: 25px;
+    color: #1C1E21;
+    font-weight: normal;
+}
+.celeb{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+.celeb:hover{
+    text-decoration: underline;
+}
+#LOG{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 50px;
+}
+#new{
+    text-decoration: none;
+    color: #FFFFFD;
+    font-size: 30px;
+    font-weight: bold;
+}
